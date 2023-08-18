@@ -1,5 +1,7 @@
-# Using WireShark to Capture-packets-and-use-filters
+<p align="center">
 ![image](https://github.com/itsims007/Capturing-packets-and-using-filters/assets/105188024/9f4ce4ab-47ea-4e64-b699-80fecf833c9e)
+  
+# Using WireShark to Capture-packets-and-use-filters
 
 First we start by installing and setting up Wireshark on Linix.
 
