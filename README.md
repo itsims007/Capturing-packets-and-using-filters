@@ -1,6 +1,6 @@
 <p align="center">
 <https://www.wireshark.org/> 
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/> 
+
 # Using WireShark to Capture-packets-and-use-filters
 
 First we start by installing and setting up Wireshark on Linix.
