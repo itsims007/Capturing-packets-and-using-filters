@@ -1,6 +1,5 @@
 <p align="center">
-  
-<h1>WIRESHARK**</h1>
+<h1>WIRESHARK</h1>
   
 <h2>Using WireShark to Capture-packets-and-use-filters</h2>
 
