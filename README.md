@@ -1,6 +1,5 @@
 <p align="center">
-  
-<C:\Users\sims0\Downloads\wireshark-logo.png/>
+
   
 <h2>Using WireShark to Capture-packets-and-use-filters</h2>
 
