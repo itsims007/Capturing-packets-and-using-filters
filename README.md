@@ -4,7 +4,8 @@
 <h2>Using WireShark to Capture-packets-and-use-filters</h2>
 
 <h2>Task 1</h2>
-Install and set up Wireshark on Ubuntu:
+
+  -Install and set up Wireshark on Ubuntu:
 
   -To get the latest stable version of Wireshark on Ubuntu Linux, use the add-apt-repository command: sudo add-apt-repository ppa:wireshark-dev/stable
 
@@ -25,7 +26,7 @@ Start a packet capture on an ethernet port and save it to file:
 
 <h2>Task 3<h2>
 
-  Use a display filter to detect HTTPS packets:
+  -Use a display filter to detect HTTPS packets:
 
   -To display certain packets in an existing packet capture, use a display filter.
 
@@ -33,7 +34,7 @@ Start a packet capture on an ethernet port and save it to file:
 
 <h2>Task 4<h2>
 
-  Visit a web page and detect its IP address using a display filter:
+  -Visit a web page and detect its IP address using a display filter:
 
   -A TLS handshake display filter may be used to detect a website visit in a packet list: tls.handshake.type ==1
 
@@ -41,7 +42,7 @@ Start a packet capture on an ethernet port and save it to file:
 
 <h2>Task 5<h2>
 
-  Locate all HTTPS packets from a capture not containing a certain IP address:
+  -Locate all HTTPS packets from a capture not containing a certain IP address:
 
   -A Conditional statement may be used to include and eliminate packets from a Wireshark capture: !(ip.addr == 8.43.85.97) and tcp.port == 443
 
