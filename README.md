@@ -24,7 +24,7 @@ Start a packet capture on an ethernet port and save it to file:
 
   -A capture can only be saved once the capture has stopped.
 
-<h2>Task 3<h2>
+<h2>Task 3</h2>
 
   -Use a display filter to detect HTTPS packets:
 
@@ -32,7 +32,7 @@ Start a packet capture on an ethernet port and save it to file:
 
   -To display only HTTPS traffic, use a filter on TCP port 443: tcp.port == 443
 
-<h2>Task 4<h2>
+<h2>Task 4</h2>
 
   -Visit a web page and detect its IP address using a display filter:
 
@@ -40,7 +40,7 @@ Start a packet capture on an ethernet port and save it to file:
 
   -The IP address is used in a filter to obtain packet information for a particular website: ip.addr == 142.251.163.105
 
-<h2>Task 5<h2>
+<h2>Task 5</h2>
 
   -Locate all HTTPS packets from a capture not containing a certain IP address:
 
